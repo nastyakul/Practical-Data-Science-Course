@@ -16,7 +16,7 @@ By the end of this week, you will be able to:
 
 ## 🎓 Session Resources
 
-- Lecture: Data Visualization I: Telling Stories with Plotly
+- Lecture: [Data Visualization I: Telling Stories with Plotly](https://docs.google.com/presentation/d/15ZDXg25nYkRzZROZodMW8JmPHcZ5Ce9XuOQuD1xYT74/edit?usp=sharing)
 - Tutorial: [Data Visualization I: Plotly Basics](notebooks/tutorial_plotly_basics.ipynb)
 
 ## 🏗️ Mini-Deliverable
